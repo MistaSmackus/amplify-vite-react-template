@@ -1,17 +1,71 @@
-import { type ClientSchema, a, defineData } from "@aws-amplify/backend";
+import { a, defineData,type ClientSchema } from "@aws-amplify/backend";
 
-/*== STEP 1 ===============================================================
-The section below creates a Todo database table with a "content" field. Try
-adding a new "isDone" field as a boolean. The authorization rule below
-specifies that any user authenticated via an API key can "create", "read",
-"update", and "delete" any "Todo" records.
-=========================================================================*/
+
 const schema = a.schema({
-  Todo: a
+  Stock: a
     .model({
-      content: a.string(),
+      stockId: a.id().required(),
+      name: a.string(),
+      price: a.string(),
+      symbol: a.string(),
+      change: a.string(),
+      dayChange: a.string(),
+      volume: a.string(),
+      value: a.string(),
+      last: a.string(),
+      mentions: a.string(),
     })
-    .authorization((allow) => [allow.publicApiKey()]),
+    .identifier(['stockId'])
+    .authorization((allow) => [
+      allow.authenticated().to(['read']),
+      allow.group("Admins").to(['create','update']),
+    ]),
+  Market: a
+    .model({
+      time: a.time(),
+      value: a.float(),
+      date: a.date(),
+      close: a.time(),
+      open: a.time(),
+    }).authorization((allow) => [
+      allow.authenticated().to(['read']),
+      allow.group("Admins").to(['create']),
+    ]),
+  Event: a
+    .model({
+      eventId: a.id().required(),
+      date: a.datetime(),
+      event: a.string(),
+      forecast: a.string(),
+      previous: a.string(),
+    })
+    .identifier(['eventId'])
+    .authorization((allow) => [
+      allow.authenticated().to(['read']),
+      allow.group("Admins").to(['create']),
+    ]),
+  Portfolio: a
+    .model({
+      value: a.string().default("0.00"),
+      balance: a.string().default("0.00"),
+
+    }).authorization((allow) => [
+        allow.owner().to(["create", "read"]),
+    ]),
+  Transaction: a
+    .model({
+      transactionId: a.id().required(),
+      type: a.string(),
+      amount: a.string(),
+      date: a.date(),
+      stock: a.string(),
+      owns: a.boolean().default(false),
+
+    })
+    .identifier(['transactionId'])
+    .authorization((allow) => [
+      allow.owner().to(['read','create']),
+    ]),
 });
 
 export type Schema = ClientSchema<typeof schema>;
@@ -19,39 +73,6 @@ export type Schema = ClientSchema<typeof schema>;
 export const data = defineData({
   schema,
   authorizationModes: {
-    defaultAuthorizationMode: "apiKey",
-    // API Key is used for a.allow.public() rules
-    apiKeyAuthorizationMode: {
-      expiresInDays: 30,
-    },
+    defaultAuthorizationMode: "userPool",
   },
 });
-
-/*== STEP 2 ===============================================================
-Go to your frontend source code. From your client-side code, generate a
-Data client to make CRUDL requests to your table. (THIS SNIPPET WILL ONLY
-WORK IN THE FRONTEND CODE FILE.)
-
-Using JavaScript or Next.js React Server Components, Middleware, Server 
-Actions or Pages Router? Review how to generate Data clients for those use
-cases: https://docs.amplify.aws/gen2/build-a-backend/data/connect-to-API/
-=========================================================================*/
-
-/*
-"use client"
-import { generateClient } from "aws-amplify/data";
-import type { Schema } from "@/amplify/data/resource";
-
-const client = generateClient<Schema>() // use this Data client for CRUDL requests
-*/
-
-/*== STEP 3 ===============================================================
-Fetch records from the database and use them in your frontend component.
-(THIS SNIPPET WILL ONLY WORK IN THE FRONTEND CODE FILE.)
-=========================================================================*/
-
-/* For example, in a React component, you can use this snippet in your
-  function's RETURN statement */
-// const { data: todos } = await client.models.Todo.list()
-
-// return <ul>{todos.map(todo => <li key={todo.id}>{todo.content}</li>)}</ul>
