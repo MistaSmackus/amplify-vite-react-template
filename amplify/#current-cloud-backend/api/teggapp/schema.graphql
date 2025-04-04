@@ -1,0 +1,13 @@
+type PurchasedStock @model {
+  id: ID!
+  symbol: String!
+  quantity: Int!
+  price: Float!
+}
+
+type WatchStock @model {
+  id: ID!
+  symbol: String!
+  lastPrice: Float!
+  change: String!
+}

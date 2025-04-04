@@ -1,0 +1,85 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-teggapp-dev-0102c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::763345000100:role/amplify-teggapp-dev-0102c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::763345000100:role/amplify-teggapp-dev-0102c-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-teggapp-dev-0102c-deployment",
+      "UnauthRoleName": "amplify-teggapp-dev-0102c-unauthRole",
+      "StackName": "amplify-teggapp-dev-0102c",
+      "StackId": "arn:aws:cloudformation:us-east-2:763345000100:stack/amplify-teggapp-dev-0102c/18605800-116d-11f0-a434-0293b3fea6ed",
+      "AmplifyAppId": "d34tk2win4pspr"
+    }
+  },
+  "api": {
+    "teggapp": {
+      "service": "AppSync",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "defaultAuthentication": {
+            "authenticationType": "API_KEY",
+            "apiKeyConfig": {
+              "apiKeyExpirationDays": 7
+            }
+          },
+          "additionalAuthenticationProviders": []
+        },
+        "GraphQLAPIIdOutput": "o2ezbl74sjgbtao4jz7wzio4eu",
+        "GraphQLAPIEndpointOutput": "https://c6pxrnqhxzg2tb57tlx3swj4yy.appsync-api.us-east-2.amazonaws.com/graphql",
+        "GraphQLAPIKeyOutput": "da2-kqnj56jonjgwzfo7fakueykxye"
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-dev-0102c-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "logicalId": "apiteggapp"
+      },
+      "lastPushTimeStamp": "2025-04-04T16:56:35.300Z",
+      "lastPushDirHash": "KrMHP2v+KQsI+xPZ2tH/BIhlGdc="
+    }
+  },
+  "auth": {
+    "teggapp691e1703": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "frontendAuthConfig": {
+        "socialProviders": [],
+        "usernameAttributes": [
+          "EMAIL"
+        ],
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": []
+        },
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-dev-0102c-deployment/amplify-cfn-templates/auth/teggapp691e1703-cloudformation-template.json",
+        "logicalId": "authteggapp691e1703"
+      },
+      "lastPushTimeStamp": "2025-04-04T16:56:35.305Z",
+      "output": {
+        "UserPoolId": "us-east-2_1aFNDAoDi",
+        "AppClientIDWeb": "3c19cu90bj40cgfe0h17nd5gmr",
+        "AppClientID": "4nr8nujib5g9rl9qg57c4lbv07",
+        "IdentityPoolId": "us-east-2:c2fbe9f2-d3d3-4a26-ae2d-1b28f7a02be0",
+        "UserPoolArn": "arn:aws:cognito-idp:us-east-2:763345000100:userpool/us-east-2_1aFNDAoDi",
+        "IdentityPoolName": "teggapp691e1703_identitypool_691e1703__dev",
+        "UserPoolName": "teggapp691e1703_userpool_691e1703"
+      },
+      "lastPushDirHash": "oJez5+B6Ngj5kvRZCM/wv+Vzw3g="
+    }
+  }
+}

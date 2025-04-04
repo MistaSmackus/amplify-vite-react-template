@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-teggapp-dev-0102c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::763345000100:role/amplify-teggapp-dev-0102c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::763345000100:role/amplify-teggapp-dev-0102c-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-teggapp-dev-0102c-deployment",
+      "UnauthRoleName": "amplify-teggapp-dev-0102c-unauthRole",
+      "StackName": "amplify-teggapp-dev-0102c",
+      "StackId": "arn:aws:cloudformation:us-east-2:763345000100:stack/amplify-teggapp-dev-0102c/18605800-116d-11f0-a434-0293b3fea6ed",
+      "AmplifyAppId": "d34tk2win4pspr"
+    },
+    "categories": {
+      "api": {
+        "teggapp": {}
+      },
+      "auth": {
+        "teggapp691e1703": {}
+      }
+    }
+  }
+}
