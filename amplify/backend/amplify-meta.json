@@ -35,7 +35,7 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-dev-0102c-deployment/amplify-cfn-templates/api/cloudformation-template.json",
         "logicalId": "apiteggapp"
       },
-      "lastPushTimeStamp": "2025-04-04T16:56:35.300Z",
+      "lastPushTimeStamp": "2025-04-04T17:09:34.411Z",
       "lastPushDirHash": "KrMHP2v+KQsI+xPZ2tH/BIhlGdc="
     }
   },
@@ -69,7 +69,7 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-dev-0102c-deployment/amplify-cfn-templates/auth/teggapp691e1703-cloudformation-template.json",
         "logicalId": "authteggapp691e1703"
       },
-      "lastPushTimeStamp": "2025-04-04T16:56:35.305Z",
+      "lastPushTimeStamp": "2025-04-04T17:09:34.415Z",
       "output": {
         "UserPoolId": "us-east-2_1aFNDAoDi",
         "AppClientIDWeb": "3c19cu90bj40cgfe0h17nd5gmr",
