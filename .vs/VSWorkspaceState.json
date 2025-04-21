@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\amplify",
-    "\\amplify\\auth",
-    "\\amplify\\data",
-    "\\public",
-    "\\src"
+    "\\amplify\\backend",
+    "\\amplify\\backend\\api",
+    "\\amplify\\backend\\api\\teggapp",
+    "\\amplify\\backend\\auth",
+    "\\amplify\\backend\\auth\\teggapp691e1703"
   ],
   "PreviewInSolutionExplorer": false
 }

@@ -2,6 +2,6 @@
     "AppSyncApiName": "teggapp",
     "DynamoDBBillingMode": "PAY_PER_REQUEST",
     "DynamoDBEnableServerSideEncryption": false,
-    "S3DeploymentBucket": "amplify-teggapp-dev-0102c-deployment",
-    "S3DeploymentRootKey": "amplify-appsync-files/cd09efe062e0c01db478fb9f07367fc5d478ac31"
+    "S3DeploymentBucket": "amplify-teggapp-main-2546e-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/0df2473f642dc005f08c09b0ead482b65ef004af"
 }

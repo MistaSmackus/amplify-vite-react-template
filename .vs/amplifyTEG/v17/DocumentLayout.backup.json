@@ -3,47 +3,68 @@
   "WorkspaceRootPath": "D:\\amplifyTEG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\src\\Portfolio.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Portfolio.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\auth\\teggapp691e1703\\build\\parameters.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\auth\\teggapp691e1703\\build\\parameters.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\src\\main.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\schema.graphql||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\api\\teggapp\\build\\schema.graphql||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\src\\App.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\parameters.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\api\\teggapp\\build\\parameters.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\src\\UserTransaction.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\UserTransaction.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\cloudformation-template.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\api\\teggapp\\build\\cloudformation-template.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\data\\resource.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\data\\resource.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\stacks\\PurchasedStock.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\api\\teggapp\\build\\stacks\\PurchasedStock.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\stacks\\CustomResources.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\api\\teggapp\\build\\stacks\\CustomResources.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\resolvers\\Mutation.createPurchasedStock.init.1.req.vtl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\api\\teggapp\\build\\resolvers\\Mutation.createPurchasedStock.init.1.req.vtl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\auth\\resource.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\auth\\resource.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\.config\\project-config.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\.config\\project-config.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\.config\\local-env-info.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\.config\\local-env-info.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\.config\\local-aws-info.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\.config\\local-aws-info.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify_outputs.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify_outputs.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\.vs\\tasks.vs.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\src\\App.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\caleb\\Downloads\\amplify_outputs.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\src\\amplifyconfiguration.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\amplifyconfiguration.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\amplifyTEG\\amplify\\backend\\auth\\teggapp691e1703\\cli-inputs.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend\\auth\\teggapp691e1703\\cli-inputs.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,139 +82,211 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserTransaction.tsx",
-              "DocumentMoniker": "D:\\amplifyTEG\\src\\UserTransaction.tsx",
-              "RelativeDocumentMoniker": "src\\UserTransaction.tsx",
-              "ToolTip": "D:\\amplifyTEG\\src\\UserTransaction.tsx",
-              "RelativeToolTip": "src\\UserTransaction.tsx",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-04T03:26:13.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "resource.ts",
-              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\data\\resource.ts",
-              "RelativeDocumentMoniker": "amplify\\data\\resource.ts",
-              "ToolTip": "D:\\amplifyTEG\\amplify\\data\\resource.ts",
-              "RelativeToolTip": "amplify\\data\\resource.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-04T02:26:30.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Portfolio.tsx",
-              "DocumentMoniker": "D:\\amplifyTEG\\src\\Portfolio.tsx",
-              "RelativeDocumentMoniker": "src\\Portfolio.tsx",
-              "ToolTip": "D:\\amplifyTEG\\src\\Portfolio.tsx",
-              "RelativeToolTip": "src\\Portfolio.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-04T02:22:31.792Z",
+              "Title": "parameters.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\auth\\teggapp691e1703\\build\\parameters.json",
+              "RelativeDocumentMoniker": "amplify\\backend\\auth\\teggapp691e1703\\build\\parameters.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\auth\\teggapp691e1703\\build\\parameters.json",
+              "RelativeToolTip": "amplify\\backend\\auth\\teggapp691e1703\\build\\parameters.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:12:03.771Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\amplifyTEG\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\amplifyTEG\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-27T02:35:40.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\amplifyTEG\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "D:\\amplifyTEG\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-27T02:11:55.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\amplifyTEG\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\amplifyTEG\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-27T02:07:21.85Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "main.tsx",
-              "DocumentMoniker": "D:\\amplifyTEG\\src\\main.tsx",
-              "RelativeDocumentMoniker": "src\\main.tsx",
-              "ToolTip": "D:\\amplifyTEG\\src\\main.tsx",
-              "RelativeToolTip": "src\\main.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T02:04:42.571Z",
+              "Title": "schema.graphql",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\schema.graphql",
+              "RelativeDocumentMoniker": "amplify\\backend\\api\\teggapp\\build\\schema.graphql",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\schema.graphql",
+              "RelativeToolTip": "amplify\\backend\\api\\teggapp\\build\\schema.graphql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T01:11:54.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.tsx",
-              "DocumentMoniker": "D:\\amplifyTEG\\src\\App.tsx",
-              "RelativeDocumentMoniker": "src\\App.tsx",
-              "ToolTip": "D:\\amplifyTEG\\src\\App.tsx",
-              "RelativeToolTip": "src\\App.tsx",
+              "Title": "parameters.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\parameters.json",
+              "RelativeDocumentMoniker": "amplify\\backend\\api\\teggapp\\build\\parameters.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\parameters.json",
+              "RelativeToolTip": "amplify\\backend\\api\\teggapp\\build\\parameters.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:10:48.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cloudformation-template.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\cloudformation-template.json",
+              "RelativeDocumentMoniker": "amplify\\backend\\api\\teggapp\\build\\cloudformation-template.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\cloudformation-template.json",
+              "RelativeToolTip": "amplify\\backend\\api\\teggapp\\build\\cloudformation-template.json",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:10:39.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchasedStock.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\stacks\\PurchasedStock.json",
+              "RelativeDocumentMoniker": "amplify\\backend\\api\\teggapp\\build\\stacks\\PurchasedStock.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\stacks\\PurchasedStock.json",
+              "RelativeToolTip": "amplify\\backend\\api\\teggapp\\build\\stacks\\PurchasedStock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:10:36.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomResources.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\stacks\\CustomResources.json",
+              "RelativeDocumentMoniker": "amplify\\backend\\api\\teggapp\\build\\stacks\\CustomResources.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\stacks\\CustomResources.json",
+              "RelativeToolTip": "amplify\\backend\\api\\teggapp\\build\\stacks\\CustomResources.json",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:10:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mutation.createPurchasedStock.init.1.req.vtl",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\resolvers\\Mutation.createPurchasedStock.init.1.req.vtl",
+              "RelativeDocumentMoniker": "amplify\\backend\\api\\teggapp\\build\\resolvers\\Mutation.createPurchasedStock.init.1.req.vtl",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\api\\teggapp\\build\\resolvers\\Mutation.createPurchasedStock.init.1.req.vtl",
+              "RelativeToolTip": "amplify\\backend\\api\\teggapp\\build\\resolvers\\Mutation.createPurchasedStock.init.1.req.vtl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T01:10:26.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "resource.ts",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\auth\\resource.ts",
+              "RelativeDocumentMoniker": "amplify\\auth\\resource.ts",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\auth\\resource.ts",
+              "RelativeToolTip": "amplify\\auth\\resource.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T01:56:55.486Z",
+              "WhenOpened": "2025-04-13T01:10:12.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "project-config.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\.config\\project-config.json",
+              "RelativeDocumentMoniker": "amplify\\.config\\project-config.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\.config\\project-config.json",
+              "RelativeToolTip": "amplify\\.config\\project-config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:10:04.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "tasks.vs.json",
-              "DocumentMoniker": "D:\\amplifyTEG\\.vs\\tasks.vs.json",
-              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
-              "ToolTip": "D:\\amplifyTEG\\.vs\\tasks.vs.json",
-              "RelativeToolTip": ".vs\\tasks.vs.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Title": "local-env-info.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\.config\\local-env-info.json",
+              "RelativeDocumentMoniker": "amplify\\.config\\local-env-info.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\.config\\local-env-info.json",
+              "RelativeToolTip": "amplify\\.config\\local-env-info.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T01:53:01.662Z"
+              "WhenOpened": "2025-04-13T01:09:58.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "local-aws-info.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\.config\\local-aws-info.json",
+              "RelativeDocumentMoniker": "amplify\\.config\\local-aws-info.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\.config\\local-aws-info.json*",
+              "RelativeToolTip": "amplify\\.config\\local-aws-info.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:09:45.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\amplifyTEG\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "D:\\amplifyTEG\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T01:02:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "amplifyconfiguration.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\src\\amplifyconfiguration.json",
+              "RelativeDocumentMoniker": "src\\amplifyconfiguration.json",
+              "ToolTip": "D:\\amplifyTEG\\src\\amplifyconfiguration.json",
+              "RelativeToolTip": "src\\amplifyconfiguration.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T01:02:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "amplify.yml",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify.yml",
+              "RelativeDocumentMoniker": "amplify.yml",
+              "ToolTip": "D:\\amplifyTEG\\amplify.yml",
+              "RelativeToolTip": "amplify.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-13T00:53:09.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "cli-inputs.json",
+              "DocumentMoniker": "D:\\amplifyTEG\\amplify\\backend\\auth\\teggapp691e1703\\cli-inputs.json",
+              "RelativeDocumentMoniker": "amplify\\backend\\auth\\teggapp691e1703\\cli-inputs.json",
+              "ToolTip": "D:\\amplifyTEG\\amplify\\backend\\auth\\teggapp691e1703\\cli-inputs.json",
+              "RelativeToolTip": "amplify\\backend\\auth\\teggapp691e1703\\cli-inputs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T00:52:56.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "amplify_outputs.json",
               "DocumentMoniker": "D:\\amplifyTEG\\amplify_outputs.json",
               "RelativeDocumentMoniker": "amplify_outputs.json",
               "ToolTip": "D:\\amplifyTEG\\amplify_outputs.json",
               "RelativeToolTip": "amplify_outputs.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T01:51:52.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "amplify_outputs.json",
-              "DocumentMoniker": "C:\\Users\\caleb\\Downloads\\amplify_outputs.json",
-              "ToolTip": "C:\\Users\\caleb\\Downloads\\amplify_outputs.json",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T01:44:06.657Z"
+              "WhenOpened": "2025-04-13T00:16:45.597Z",
+              "EditorCaption": ""
             }
           ]
         }

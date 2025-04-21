@@ -19,5 +19,26 @@
         "teggapp691e1703": {}
       }
     }
+  },
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-teggapp-main-2546e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::763345000100:role/amplify-teggapp-main-2546e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::763345000100:role/amplify-teggapp-main-2546e-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-teggapp-main-2546e-deployment",
+      "UnauthRoleName": "amplify-teggapp-main-2546e-unauthRole",
+      "StackName": "amplify-teggapp-main-2546e",
+      "StackId": "arn:aws:cloudformation:us-east-2:763345000100:stack/amplify-teggapp-main-2546e/d71074b0-17fd-11f0-b101-0a1d27d18ea5",
+      "AmplifyAppId": "d1wurnmt3b6nza"
+    },
+    "categories": {
+      "auth": {
+        "teggapp691e1703": {}
+      },
+      "api": {
+        "teggapp": {}
+      }
+    }
   }
 }

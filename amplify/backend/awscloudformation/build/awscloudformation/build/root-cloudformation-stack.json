@@ -202,21 +202,21 @@
     "apiteggapp": {
       "Type": "AWS::CloudFormation::Stack",
       "Properties": {
-        "TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-dev-0102c-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-main-2546e-deployment/amplify-cfn-templates/api/cloudformation-template.json",
         "Parameters": {
           "AppSyncApiName": "teggapp",
           "DynamoDBBillingMode": "PAY_PER_REQUEST",
           "DynamoDBEnableServerSideEncryption": false,
-          "S3DeploymentBucket": "amplify-teggapp-dev-0102c-deployment",
-          "S3DeploymentRootKey": "amplify-appsync-files/cd09efe062e0c01db478fb9f07367fc5d478ac31",
-          "env": "dev"
+          "S3DeploymentBucket": "amplify-teggapp-main-2546e-deployment",
+          "S3DeploymentRootKey": "amplify-appsync-files/0df2473f642dc005f08c09b0ead482b65ef004af",
+          "env": "main"
         }
       }
     },
     "authteggapp691e1703": {
       "Type": "AWS::CloudFormation::Stack",
       "Properties": {
-        "TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-dev-0102c-deployment/amplify-cfn-templates/auth/teggapp691e1703-cloudformation-template.json",
+        "TemplateURL": "https://s3.amazonaws.com/amplify-teggapp-main-2546e-deployment/amplify-cfn-templates/auth/teggapp691e1703-cloudformation-template.json",
         "Parameters": {
           "identityPoolName": "teggapp691e1703_identitypool_691e1703",
           "allowUnauthenticatedIdentities": false,
@@ -263,7 +263,7 @@
           },
           "breakCircularDependency": true,
           "dependsOn": "",
-          "env": "dev"
+          "env": "main"
         }
       }
     },
